@@ -10,8 +10,9 @@
 
 <br>
 
-## TABLE OF CONTENTS <!-- omit in toc -->
+## TABLE OF CONTENTS
 
+- [TABLE OF CONTENTS](#table-of-contents)
 - [OVERVIEW](#overview)
   - [Some Tips Before You Start](#some-tips-before-you-start)
 - [INSTALLATIONS](#installations)
